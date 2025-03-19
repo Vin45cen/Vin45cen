@@ -1,32 +1,18 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 💡 Vincent's GitHub Portfolio
 
-###
+Welcome to my GitHub portfolio! I'm Vincent, a Computer Science undergraduate at Binus University with a passion for Artificial Intelligence
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🚀 About Me
+- 🎓 **Education:** Computer Science student at Binus University
+- 🤖 **AI Enthusiast:** Passionate about AI
+- 🛠️ **Developer:** Python, Machine Learning, NLP, Deep Learning, Computer Vision, HTML, CSS , JavaScript
 
-###
+## 📌 Featured Projects
 
-###
+## 📫 Let's Connect!
+- 📧 Email: vincent.tanjaya001@binus.ac.id
+- 🔗 LinkedIn: www.linkedin.com/in/vincent-tanjaya-a90727288 
+- 🌐 Portfolio Website: [(If applicable)](https://sites.google.com/view/vincenttanjaya?usp=sharing)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
+Feel free to explore my repositories, contribute, or reach out for collaborations! 🚀
 
